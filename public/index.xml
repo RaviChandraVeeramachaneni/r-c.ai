@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ravi Chandra Veeramachaneni</title>
+    <link>//r-c.ai/</link>
+    <description>Recent content on Ravi Chandra Veeramachaneni</description>
+    <image>
+      <url>//r-c.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//r-c.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//r-c.ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recognizing hand written Academic documents.</title>
+      <link>//r-c.ai/projects/p1/cv1/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/projects/p1/cv1/</guid>
+      <description>Contents Important Note  Start Date: September 2022 This is a work in progress. This is a code first learning by doing method. This page will be updated as the project progresses and realted learnings will be shared in the blog section of the website. The Appendix section contains the blog section links, other citings for the learnings &amp;amp; referal material. End Date: NA  GitHub Link for the Project  The code, data &amp;amp; any additional utilities will be hosted on my github account and will be updated as worked on.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//r-c.ai/about/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/about/</guid>
+      <description>I am a Software Engineer at a startup in California, USA. Right now I&amp;rsquo;m trying to solve a problem using Machine Learning. Reading a book or watching a course and applying that to a project. I also love to blog what I learn. Blogging to me is having an easy to understand resource, which I wish, I had, when I started learning that topic.
+ 📝 Blog. 💻 GitHub  I have a full playlist on youtube explaining the core &amp;amp; advanced Java.</description>
+    </item>
+    
+    <item>
+      <title>Chapter-13 Deep Learning for Coders with FastAI &amp; Pytorch</title>
+      <link>//r-c.ai/blogs/b8/c13-dl-for-coders/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/blogs/b8/c13-dl-for-coders/</guid>
+      <description>Convolutional Neural Networks </description>
+    </item>
+    
+    <item>
+      <title>Chapter-8 Deep Learning for Coders with FastAI &amp; Pytorch</title>
+      <link>//r-c.ai/blogs/b7/ch8-dl-for-coders/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/blogs/b7/ch8-dl-for-coders/</guid>
+      <description>Collaborative Filtering</description>
+    </item>
+    
+    <item>
+      <title>Chapter-7 Deep Learning for Coders with FastAI &amp; Pytorch</title>
+      <link>//r-c.ai/blogs/b6/ch7-dl-for-coders/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/blogs/b6/ch7-dl-for-coders/</guid>
+      <description>Training State-Of-The-Art-Model</description>
+    </item>
+    
+    <item>
+      <title>Chapter-6 Deep Learning for Coders with FastAI &amp; Pytorch</title>
+      <link>//r-c.ai/blogs/b5/ch6-dl-for-coders/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/blogs/b5/ch6-dl-for-coders/</guid>
+      <description>Multi Label Classification</description>
+    </item>
+    
+    <item>
+      <title>Chapter-5 Deep Learning for Coders with FastAI &amp; Pytorch</title>
+      <link>//r-c.ai/blogs/b4/ch5-dl-for-coders/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/blogs/b4/ch5-dl-for-coders/</guid>
+      <description>PET Breeds &amp;amp; Making a Model Better</description>
+    </item>
+    
+    <item>
+      <title>Chapter-4 Deep Learning for Coders with FastAI &amp; Pytorch</title>
+      <link>//r-c.ai/blogs/b3/ch4-dl-for-coders/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/blogs/b3/ch4-dl-for-coders/</guid>
+      <description>Training a Digit Classifier</description>
+    </item>
+    
+    <item>
+      <title>Chapter-2 Deep Learning for Coders with FastAI &amp; Pytorch</title>
+      <link>//r-c.ai/blogs/b2/ch2-dl-for-coders/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/blogs/b2/ch2-dl-for-coders/</guid>
+      <description>From Model to Production</description>
+    </item>
+    
+    <item>
+      <title>Chapter-1 Deep Learning for Coders with FastAI &amp; Pytorch</title>
+      <link>//r-c.ai/blogs/b1/ch1-dl-for-coders/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//r-c.ai/blogs/b1/ch1-dl-for-coders/</guid>
+      <description>Keypoints  Deep Learning(DL) is for everyone and it can be learned without starting with math. DL is good at lot of tasks such as Natural Language Processing, Computer Vision etc. It’s an technique to extract and transform data and it uses multiple layers of neural networks. Each of these layers take input from previous layers and refines them further. Over the time, the layers improve accuracy &amp;amp; minimize error. And the network learns to perform a specific task.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>//r-c.ai/page/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>//r-c.ai/page/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

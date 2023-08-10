@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: //r-c.ai/sitemap.xml
